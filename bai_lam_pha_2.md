@@ -3,7 +3,7 @@
 - **Mã đề:** 05
 - **Họ tên:Ngô Hoàng Huy**
 - **Lớp:CNTT2**
-- **Link repository Pha2:**
+- **Link repository Pha2:https://github.com/ngohoanghuy0608/HN_ks26_CNTT2_promtai_H02_pha1_pha2/blob/main/bai_lam_pha_2.md**
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):ChatGPT**
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
