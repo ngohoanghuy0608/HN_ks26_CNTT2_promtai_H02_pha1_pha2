@@ -3,7 +3,7 @@
 - **Mã đề:** 05
 - **Họ tên:Ngô Hoàng Huy**
 - **Lớp:CNTT2**
-- **Link repository Pha1:**
+- **Link repository Pha1:*https://github.com/ngohoanghuy0608/HN_ks26_CNTT2_promtai_H02_pha1_pha2/edit/main/bai_lam_pha_1.md*
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
